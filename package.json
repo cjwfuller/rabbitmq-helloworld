@@ -2,5 +2,8 @@
   "name": "rabbitmq-helloworld",
   "version": "1.0.0",
   "author": "Chris Fuller",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.4.1"
+  }
 }
